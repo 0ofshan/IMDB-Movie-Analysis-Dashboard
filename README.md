@@ -19,8 +19,6 @@ Excel for preprocessing and dataset organization
 
 📁 imdb_top1000.xlsx — Cleaned and formatted dataset
 
-🖼 screenshots/ — Visual previews of dashboard pages
-
 🔍 Key Insights Discovered
 
 📈 Revenue trends show significant growth after 2000, influenced by blockbusters and franchise expansions.
